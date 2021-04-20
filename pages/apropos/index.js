@@ -23,7 +23,7 @@ import './Apropos.module.scss';
 const About = () => (
   <>
   <HeaderCustom />
-  <Container style={{ minHeight: 'calc( 100vh - 70px - 53px - 28px' }}>
+  <Container style={{ minHeight: 'calc( 100vh - 70px - 62px - 28px' }}>
     <Header as="h1" textAlign="center">A propos</Header>
     <Divider hidden />
     <Grid stackable columns={2}>

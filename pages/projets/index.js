@@ -11,9 +11,6 @@ import Footer from 'components/Footer';
 import ButtonMailto from 'components/ButtonMailto';
 import Project from 'components/Project';
 
-// == Import
-import './Projets.module.scss';
-
 // Import Projets data
 import projectsData from 'data/projects';
 
